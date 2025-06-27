@@ -1,0 +1,20 @@
+本程序在python=3.9.81上运行
+
+llm.py 用来对比的不同 temperature 值下的生成效果
+llm_module.py LLM 代理模块
+main.py 交互系统和图形用户界面模块
+
+请在https://github.com/openai/point-e下载point-e模型并把三个文件放在point-e-main文件夹下
+请用pip install -e .下载point-e所需内容
+根据point-e要求配置相关库
+
+再根据requirement.txt文件配置三个文件所需库
+(本程序测试所用环境的所有库信息在requirements_prepared.txt中)
+
+本程序测试时使用硅基流动api key进行DeepSeek API调用
+需要将其设置为名为'API_KEY'的环境变量
+在命令提示符（CMD）中，可用 set API_KEY = 您的api key
+在PowerShell中，可用 $env:OPENAI_API_KEY= 您的api key
+在Linux 或 macOS，可用 export OPENAI_API_KEY= 您的api key进行DeepSeek
+
+在完成这些配置后，在point-e-main文件夹下运行main.py即可

@@ -1,0 +1,6 @@
+openai
+pandas
+torch
+tqdm
+point-e
+tkinter
