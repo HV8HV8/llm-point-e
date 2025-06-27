@@ -5,8 +5,8 @@ from llm_module import LLMAgent
 
 # 设置 API 密钥
 api_key = os.getenv('API_KEY')
-    if not api_key:
-        raise ValueError("请设置 API_KEY 环境变量")
+if not api_key:
+    raise ValueError("请设置 API_KEY 环境变量")
 
 # 初始化 LLMAgent
 llm_agent = LLMAgent(api_key)
