@@ -53,6 +53,7 @@ python main.py
 ```
 
 ## 效果展示
+
 ### 输入：我想生成一个大的现代化的彩色的木质的有趣的椅子  
 #### 输出词：chair colorful wooden modern  
 
@@ -66,6 +67,7 @@ python main.py
 ##### I want to generate a large, modern, colorful, wooden, and interesting chair.  
 
 <img width="211" height="218" alt="a657dac5cf0ad157cf801e88b346a303" src="https://github.com/user-attachments/assets/b5a7323e-5c41-4056-9b12-10f423e2848a" />
+
 
 ### 输入：我想生成一个红黄蓝相间大皮凳子  
 
@@ -82,6 +84,7 @@ python main.py
 
 <img width="224" height="226" alt="918d790e394defbcca0641680bce5901" src="https://github.com/user-attachments/assets/e5d15000-fda9-49ec-b848-ea193fc21172" />
 
+
 ### 输入：给咱来一个黑白复古老旧掉链子自行车   
 
 #### 输出词：bicycle black and white object vintage  
@@ -96,6 +99,7 @@ python main.py
 ##### Give me a black-and-white, vintage, old-fashioned bicycle with a broken chain.   
 
 <img width="228" height="139" alt="80517ae2c6f977400a3c718d42c66b76" src="https://github.com/user-attachments/assets/d69ba3cc-c837-41b1-b1b0-b5e16fb66148" />
+
 
 ### 输入：OMG，天呢宝贝，本可尊素想要获得五个超级无敌美丽好看五彩斑斓的小星星，哈尼可以实现我这个小小的愿望吗，人家是真的真的很想要  
 
@@ -112,6 +116,7 @@ python main.py
 
 <img width="228" height="221" alt="53eb488e5b6bfe7fe79c501702eb0b75" src="https://github.com/user-attachments/assets/87c58e29-df91-4859-bb07-bdc2723d9f79" />
 
+
 ### 输入：什么你听说了吗，今天天气特别好，天上星星月亮都没有，有的只有太阳，但是我呢？我不是一颗小草，据说先有鸡还是后有蛋，这不重要，我不想生成这些东西，是的没错！我是男的！！红的桌子，这是我要生成的，因为云朵很淡，我回了母校，黄河自行车，摩托车开过去了。  
 
 #### 输出词：table red object object  
@@ -126,6 +131,7 @@ python main.py
 ##### Did you hear? The weather is especially nice today. There are no stars or moon in the sky—only the sun. But me? I’m not a blade of grass. They say the age-old question is whether the chicken came first or the egg, but that doesn’t matter. I don’t want to generate any of those things. That’s right! I’m male!! A red table—that’s what I want to generate. Because the clouds are faint, I went back to my alma mater. Huanghe and bicycle, a motorcycle passed by.  
 
 <img width="247.5" height="191.25" alt="7d80e0c4d91960d5f91fd5005366fdf6" src="https://github.com/user-attachments/assets/4fd45346-b2eb-445a-89ea-15f07b876017" />
+
 
 ### 输入：好吃的苹果香蕉！来个绿摩托！化学生物都比不过大盘鸡面条获取一个出生成功的紫色早上好仿佛蓝牛肉面  
 
