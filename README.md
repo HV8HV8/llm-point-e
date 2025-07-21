@@ -21,8 +21,8 @@ git clone https://github.com/openai/point-e.git
 # 2. 进入项目目录
 cd point-e-main
 
-# 3. 放置核心文件
-将llm.py、llm_module.py和main.py三个文件复制到point-e-main文件夹下
+# 3. 放置文件
+# 将llm.py、llm_module.py和main.py三个文件复制到point-e-main文件夹下
 
 # 4. 安装point-e框架
 pip install -e .
