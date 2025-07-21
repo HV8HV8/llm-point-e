@@ -7,5 +7,8 @@ Python版本: 3.9.81
 
 模块依赖:
 ```bash
-pip install -r requirement.txt
+pip install -e .
+pip install -r requirements.txt
 ```
+
+
