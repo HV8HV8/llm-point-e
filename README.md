@@ -34,12 +34,15 @@ pip install -r requirements.txt
 ### API 密钥配置
 本程序测试时使用硅基流动 API Key 进行 DeepSeek API 调用，需要将其设置为名为 `API_KEY` 的环境变量。根据不同操作系统的终端，配置方式如下：
 ```CMD
+# Windows 命令提示符（CMD）
 set API_KEY = 您的api key
 ```
 ```powershell
+# PowerShell
 $env:API_KEY=您的实际API密钥
 ```
 ```bash
+# Linux 或 macOS 终端
 export API_KEY=您的实际API密钥
 ```
 
